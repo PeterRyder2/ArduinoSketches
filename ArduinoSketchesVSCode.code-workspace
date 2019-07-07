@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{
+			"name": "ArduinoSketches",
+			"path": "."
+		},
+		{
+			"path": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\MySensor"
+		},
+		{
+			"path": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\cactus_io_DHT22"
+		},
+		{
+			"path": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Component"
+		},
+		{
+			"path": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\dht"
+		},
+		{
+			"path": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\DigitalPin"
+		},
+		{
+			"path": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\MoistureSensor"
+		},
+		{
+			"path": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\MyHumiditySensor"
+		},
+		{
+			"path": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\MyLightSensor"
+		},
+		{
+			"path": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\MyRelay"
+		},
+		{
+			"path": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\RF24"
+		}
+	],
+	"settings": {}
+}
