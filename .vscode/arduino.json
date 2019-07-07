@@ -1,6 +1,7 @@
 {
     "programmer": "AVR ISP",
-    "port": "COM3",
-    "board": "arduino:avr:uno",
-    "sketch": "test.ino"
+    "port": "COM11",
+    "board": "arduino:avr:nano",
+    "sketch": "test.ino",
+    "configuration": "cpu=atmega328"
 }
